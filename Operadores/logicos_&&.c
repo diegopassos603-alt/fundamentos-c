@@ -2,7 +2,7 @@
 
 int main (){
 
-    // Operadores lógicos && (AND), || (OR) e ! (NOT)
+    // Operadores lógicos && E -> (AND), || OU -> (OR) e ! Não -> (NOT)
     // Declaração de variáveis
     int idade;
 
